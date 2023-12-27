@@ -1,3 +1,4 @@
-//This is a comment
-
-print("The sum of (2+3) is \(2+3)")
+// arrays ==> collection of items
+var numbers=[45,73,195,53]
+var computedNumbers=[numbers[0]*numbers[1], numbers[1]*numbers[2], numbers[2]*numbers[3]]
+ print(computedNumbers)
