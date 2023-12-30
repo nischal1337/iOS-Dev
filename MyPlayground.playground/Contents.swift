@@ -1,2 +1,5 @@
-var a = 3
-print(a)
+func greeting(){
+    for i in 0...3{
+        print("hello world")}
+}
+greeting()
